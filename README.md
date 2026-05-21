@@ -141,7 +141,7 @@ If you use this code, please cite:
   title   = {Forecast-informed daily energy dispatch for cost and emission reduction:
              Evidence from an emerging economy power system},
   journal = {Energy Conversion and Management},
-  year    = {2026},
-  doi     = {10.1016/j.enconman.2026.121611}
+  year    = {},
+  doi     = {}
 }
 ```
